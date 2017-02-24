@@ -1,0 +1,15 @@
+possible issue of auxillary processes with different process names i.e.
+"Google Chrome Helper"
+
+manage:
+  terminal
+  virtualenv
+  git/github
+  db, server connection?
+  slack?
+  tmux?
+
+switch process start/shutdown to use better packages/code:
+  http://stackoverflow.com/questions/4789837/how-to-terminate-a-python-subprocess-launched-with-shell-true
+
+refactor
